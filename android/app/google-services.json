@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "699607251739",
+    "firebase_url": "https://todoappflutter01-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "todoappflutter01",
+    "storage_bucket": "todoappflutter01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699607251739:android:7b3c2b6de89982d9dff1be",
+        "android_client_info": {
+          "package_name": "com.example.taskflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLXgI_2N92F1nRMdYgJft4X_ANB1z1Tt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
