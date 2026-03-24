@@ -8,6 +8,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?style=for-the-badge&logo=dart)
+[![Fit DNU](https://img.shields.io/badge/Fit%20DNU-green?style=for-the-badge)](https://fitdnu.net/)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
+
 ## 🌐 Giới thiệu
 **Todo Flutter App** là ứng dụng quản lý công việc (To-Do List) được phát triển bằng Flutter và Firebase.  
 Ứng dụng giúp người dùng tạo, chỉnh sửa, xóa và theo dõi công việc hằng ngày với khả năng đồng bộ dữ liệu thời gian thực.
