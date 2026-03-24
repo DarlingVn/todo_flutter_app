@@ -1,4 +1,3 @@
-```markdown
 # 📱 Todo App Flutter + Firebase
 
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter)
@@ -7,8 +6,6 @@
 ## 🌐 Giới thiệu
 **Todo Flutter App** là ứng dụng quản lý công việc (To-Do List) được phát triển bằng Flutter và Firebase.  
 Ứng dụng giúp người dùng tạo, chỉnh sửa, xóa và theo dõi công việc hằng ngày với khả năng đồng bộ dữ liệu thời gian thực.
-
----
 
 ## ✨ Tính năng
 
@@ -19,11 +16,8 @@
 - ☁️ Đồng bộ Firebase  
 - 🔄 Realtime update  
 
----
-
 ## 🏗️ Cấu trúc dự án
 
-```
 
 📦 todo_flutter_app
 ├── lib/
@@ -38,8 +32,6 @@
 ├── pubspec.yaml
 └── README.md
 
-````
-
 ---
 
 ## 🛠️ Công nghệ
@@ -53,16 +45,12 @@
 ## 🚀 Cài đặt & chạy
 
 ### 1. Clone project
-```bash
 git clone https://github.com/DarlingVn/todo_flutter_app.git
 cd todo_flutter_app
-````
 
 ### 2. Cài dependencies
 
-```bash
 flutter pub get
-```
 
 ### 3. Cấu hình Firebase
 
@@ -73,15 +61,9 @@ flutter pub get
 **Android:** `android/app/google-services.json`
 **iOS:** `ios/Runner/GoogleService-Info.plist`
 
----
-
 ### 4. Chạy ứng dụng
 
-```bash
 flutter run
-```
-
----
 
 ## 📷 Demo
 
