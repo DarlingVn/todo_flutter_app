@@ -1,5 +1,10 @@
 # 📱 Todo App Flutter + Firebase
 
+<p align="center">
+  <img src="logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
+  <img src="LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
+</p>
+
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?style=for-the-badge&logo=dart)
