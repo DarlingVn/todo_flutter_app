@@ -1,14 +1,9 @@
-Dưới đây là phiên bản **README.md đã gộp gọn, sạch, chuyên nghiệp** (không bị chia nhỏ, dùng luôn được):
-
 ```markdown
 # 📱 Todo App Flutter + Firebase
 
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?style=for-the-badge&logo=dart)
-
----
-
 ## 🌐 Giới thiệu
 **Todo Flutter App** là ứng dụng quản lý công việc (To-Do List) được phát triển bằng Flutter và Firebase.  
 Ứng dụng giúp người dùng tạo, chỉnh sửa, xóa và theo dõi công việc hằng ngày với khả năng đồng bộ dữ liệu thời gian thực.
