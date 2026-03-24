@@ -27,6 +27,9 @@
 ## 🏗️ Cấu trúc dự án
 
 
+## 🏗️ Cấu trúc dự án
+
+```
 📦 todo_flutter_app
 ├── lib/
 │   ├── models/
@@ -39,8 +42,8 @@
 ├── web/
 ├── pubspec.yaml
 └── README.md
+```
 
----
 
 ## 🛠️ Công nghệ
 
@@ -53,13 +56,14 @@
 ## 🚀 Cài đặt & chạy
 
 ### 1. Clone project
+```
 git clone https://github.com/DarlingVn/todo_flutter_app.git
 cd todo_flutter_app
-
+```
 ### 2. Cài dependencies
-
+```
 flutter pub get
-
+```
 ### 3. Cấu hình Firebase
 
 * Tạo project tại: [https://console.firebase.google.com/](https://console.firebase.google.com/)
